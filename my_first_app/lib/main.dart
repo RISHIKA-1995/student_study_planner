@@ -13,7 +13,7 @@ class StudentStudyPlannerApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Student Study Planner',
+      title: 'Student Study Planner-24WH1A05U2',
       theme: ThemeData(
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
